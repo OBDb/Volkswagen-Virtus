@@ -1,0 +1,13 @@
+command_id: 7E0.7E8.22F40D
+test_cases:
+- expected_values:
+    VOLKSWAGEN_VSS_V2: 0
+  response: |-
+    7E80462F40D00
+    7E80341058E
+- expected_values:
+    VOLKSWAGEN_VSS_V2: 10
+  response: 7E80462F40D0A
+- expected_values:
+    VOLKSWAGEN_VSS_V2: 18
+  response: 7E80462F40D12
