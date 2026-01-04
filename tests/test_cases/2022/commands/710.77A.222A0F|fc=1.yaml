@@ -1,0 +1,8 @@
+command_id: 710.77A.222A0F|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_USE_BAT_CHG: 26
+  response: 77A04622A0F1A
+- expected_values:
+    VOLKSWAGEN_USE_BAT_CHG: 27
+  response: 77A04622A0F1B

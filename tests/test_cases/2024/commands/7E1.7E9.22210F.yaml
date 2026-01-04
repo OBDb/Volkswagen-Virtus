@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22210F
+test_cases:
+- expected_values:
+    VOLKSWAGEN_GEAR: '6'
+  response: 7E90462210F06
