@@ -1,5 +1,5 @@
 command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_V2: -51
+    VIRTUS_AAT_746: 27
   response: 7B0046226099A

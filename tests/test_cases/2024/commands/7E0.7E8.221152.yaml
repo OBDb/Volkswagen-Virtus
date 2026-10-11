@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.221152
 test_cases:
 - expected_values:
-    VOLKSWAGEN_EM_RPM_2: 1149.5
+    VIRTUS_MISFIRES__CYL__2: 2299
   response: 7E80562115208FB
