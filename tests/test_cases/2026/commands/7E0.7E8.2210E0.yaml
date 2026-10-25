@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210E0
+test_cases:
+- expected_values:
+    VIRTUS_ODO_7E0: 2126
+  response: 7E8076210E00000084E
