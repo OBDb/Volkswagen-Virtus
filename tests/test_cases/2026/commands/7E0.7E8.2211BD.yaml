@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211BD
+test_cases:
+- expected_values:
+    VIRTUS_EOT_ECM: 77.5
+  response: 7E8056211BD0DB2

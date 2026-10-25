@@ -1,10 +1,10 @@
 command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
-    VIRTUS_PQ35_OIL_T_2: 6279.2
+    VIRTUS_PQ35_OIL_T_2: null
   response: 7E8056211BEFFF3
 - expected_values:
-    VIRTUS_PQ35_OIL_T_2: 6279.2
+    VIRTUS_PQ35_OIL_T_2: null
   response: |-
     7E8056211BEFFF3
     7E80441210000
