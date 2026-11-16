@@ -3118,7 +3118,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2021, "years": [2023, 2025], "from": 2027 },
   "signals": [
-    {"id": "VIRTUS_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed", "description": "Current vehicle speed."}
+    {"id": "VIRTUS_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "nullmax": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed", "description": "Current vehicle speed."}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F41F"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023, 2025], "from": 2027 },
   "signals": [
@@ -4495,7 +4495,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "F40D"}, "freq": 0.25,
   "signals": [
-    {"id": "VIRTUS_VSS_7E1", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
+    {"id": "VIRTUS_VSS_7E1", "path": "Movement", "fmt": { "len": 8, "max": 255, "nullmax": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "F449"}, "freq": 0.25,
   "signals": [
